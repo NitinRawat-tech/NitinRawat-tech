@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="left" width="30%">
-      <strong>Hi, I’m Nitin Rawat 👋</strong>
+      <strong>Hi, I’m Nitin 👋</strong>
     </td>
     <td align="center" width="70%">
       <h1>Aspiring Data Analyst</h1>
